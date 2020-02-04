@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HWAndroid_2.1</string>
+    <string name="txt_label">Подписка</string>
+    <string name="txt_nameLogin"></string>
+    <string name="txt_nameEmail"></string>
+    <string name="txt_enterName">Введите своё имя</string>
+    <string name="txt_enterEmail">Введите свой Email</string>
+    <string name="txt_btmOK">OK !!!</string>
+    <string name="txt_btmClean">Очистить</string>
+
+</resources>
